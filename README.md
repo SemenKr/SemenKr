@@ -11,7 +11,9 @@ Frontend-разработчик (React / TypeScript)
 ---
 
 ## 🧰 Технологии
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,ts,js,redux,html,css,sass,git,vite,webpack" />
+</p>
 ---
 
 ## 💼 Основные проекты
