@@ -1,61 +1,67 @@
-# 👋 Привет, я Семён
-## 🧰 Технологии
+<h1 align="center">Привет, я Семён 👋</h1>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
-![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux)
-![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3)
-![Sass](https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass)
-![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git)
-![RTK Query](https://img.shields.io/badge/RTK_Query-20232A?style=for-the-badge&logo=redux)
+<p align="center">
+Frontend-разработчик (React / TypeScript)  
+</p>
 
-Frontend-разработчик с коммерческим опытом ~3 лет. Специализируюсь на разработке SPA-приложений с использованием React, TypeScript и REST API.
+<p align="center">
+🚀 Разработка SPA · ⚙️ Работа с API · 🧠 Архитектура приложений
+</p>
 
 ---
 
-## 🚀 Основной стек
+## 🧰 Технологии
 
-- React / Redux / RTK Query  
-- TypeScript / JavaScript (ES6+)  
-- REST API / Axios  
-- HTML / CSS / SCSS / БЭМ  
-- Git / Webpack / Vite  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,ts,js,redux,html,css,sass,git,vite,webpack" />
+</p>
 
 ---
 
 ## 💼 Основные проекты
 
-### 🔹 Taskfolio — Task Manager SPA
+### 🔹 Taskfolio — Task Manager SPA  
 🔗 https://task-flow-samkr.vercel.app  
 💻 https://github.com/SemenKr/task-flow  
 
-- SPA-приложение с авторизацией и интеграцией с REST API  
-- CRUD операции и управление серверным состоянием (RTK Query)  
-- Фильтрация и поиск с синхронизацией в URL  
+- Авторизация и работа с REST API  
+- CRUD операции и RTK Query  
+- Фильтрация с синхронизацией в URL  
 - Feature-based архитектура  
 
 ---
 
-### 🎬 KinoFlow — Movie App
+### 🎬 KinoFlow — Movie App  
 🔗 https://kinoflow-app.vercel.app/  
 💻 https://github.com/SemenKr/kinoflow  
 
-- Интеграция с внешним API (TMDB)  
-- Поиск, фильтрация и пагинация  
-- Мультиязычность (i18n) и переключение темы  
-- Управление состоянием (RTK Query)  
+- Работа с внешним API (TMDB)  
+- Поиск, фильтрация, пагинация  
+- i18n и переключение темы  
+- RTK Query  
 
 ---
 
-### 🎮 Cities Game
+### 🎮 Cities Game  
 🔗 https://semenkr.github.io/cities-game/  
 💻 https://github.com/SemenKr/cities-game  
 
-- Реализация бизнес-логики и работы с состоянием  
+- Бизнес-логика и тесты  
 - Разделение UI и логики  
 - Оптимизация производительности  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SemenKr&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemenKr&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=SemenKr&theme=tokyonight" />
+</p>
 
 ---
 
@@ -68,4 +74,4 @@ Frontend-разработчик с коммерческим опытом ~3 ле
 
 ## 📈 Сейчас
 
-Развиваюсь в направлении React и TypeScript, углубляю знания в архитектуре frontend-приложений, работе с серверным состоянием (RTK Query) и построении масштабируемых приложений.
+Развиваюсь в React и TypeScript, углубляю знания в архитектуре frontend-приложений и работе с серверным состоянием (RTK Query).
