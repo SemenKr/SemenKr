@@ -1,4 +1,14 @@
 # 👋 Привет, я Семён
+## 🧰 Технологии
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
+![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux)
+![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3)
+![Sass](https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass)
+![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git)
 
 Frontend-разработчик с коммерческим опытом ~3 лет. Специализируюсь на разработке SPA-приложений с использованием React, TypeScript и REST API.
 
