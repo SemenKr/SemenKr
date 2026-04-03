@@ -9,6 +9,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3)
 ![Sass](https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass)
 ![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git)
+![RTK Query](https://img.shields.io/badge/RTK_Query-20232A?style=for-the-badge&logo=redux)
 
 Frontend-разработчик с коммерческим опытом ~3 лет. Специализируюсь на разработке SPA-приложений с использованием React, TypeScript и REST API.
 
