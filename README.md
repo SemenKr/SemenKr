@@ -18,7 +18,7 @@ Frontend-разработчик (React / TypeScript)
 
 ## 💼 Основные проекты
 
-### 🔹 Taskfolio — Task Manager SPA  
+### 🔹 Taskflow — Task Manager SPA  
 🔗 https://task-flow-samkr.vercel.app  
 💻 https://github.com/SemenKr/task-flow  
 
